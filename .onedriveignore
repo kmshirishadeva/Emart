@@ -1,0 +1,8 @@
+# OneDrive ignore file
+# Prevents OneDrive from syncing build/cache directories
+
+.next/
+node_modules/
+.env
+*.log
+
